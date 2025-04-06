@@ -48,8 +48,8 @@ npm run dev
 ## 👥 Contributors
 
 - [Srimadhavn](https://github.com/srimadhavn) – Full Stack & ML Integration
-- [Madhan](https://github.com/madhan-karthikeyan/) – IoT and Hardware Integration
-- [Shrenica](https://github.com/Shren-Codes) – Content & Research on Kamdhenu Program
+- [Shrenica](https://github.com/Shren-Codes) – IoT and Hardware Integration
+-  [Madhan](https://github.com/madhan-karthikeyan/) – Frontend & UI design
 
 ---
 
